@@ -4,6 +4,7 @@ Nhom04_DAWH430784_23_2_02
 - Vũ Thị Bích Ngọc - 21110905
 - Nguyễn Quốc Thịnh - 21110661
 - Hoàng Anh Tuấn - 21110710
+
 Dataset: https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset 
 Report: gồm file word báo cáo + file pdf
 Project gồm:
