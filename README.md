@@ -5,8 +5,8 @@ Nhom04_DAWH430784_23_2_02
 - Nguyễn Quốc Thịnh - 21110661
 - Hoàng Anh Tuấn - 21110710
   
-- Report: gồm file word báo cáo + file pdf
-- Project gồm:
+Report: gồm file word báo cáo + file pdf
+Project gồm:
 + Project/Design: file excel thiết kế datawarehouse
 + Project/Data: file .csv, xls (tập dữ liệu)
 + Project/T-SQL: các script .sql
