@@ -1,10 +1,10 @@
 # ProjectDWH_RetailChain
 Nhom04_DAWH430784_23_2_02
- Ngô Thanh Thanh - 21110643
- Vũ Thị Bích Ngọc - 21110905
- Nguyễn Quốc Thịnh - 21110661
- Hoàng Anh Tuấn - 21110710
-
+- Ngô Thanh Thanh - 21110643
+- Vũ Thị Bích Ngọc - 21110905
+- Nguyễn Quốc Thịnh - 21110661
+- Hoàng Anh Tuấn - 21110710
+  
 - Report: gồm file word báo cáo + file pdf
 - Project gồm:
 + Project/Design: file excel thiết kế datawarehouse
